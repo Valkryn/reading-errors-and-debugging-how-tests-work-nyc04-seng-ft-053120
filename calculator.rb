@@ -1,2 +1,2 @@
 first_number = 3
-second_numbers = 7
+second_number = 7
